@@ -1,0 +1,20 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Streamlit configs (optional, if you don't want them in GitHub)
+.streamlit/
+
+# Cache / temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
