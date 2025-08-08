@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+google-generativeai
+moviepy
+SpeechRecognition
+pydub
+openai-whisper
