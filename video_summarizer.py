@@ -39,6 +39,7 @@ st.markdown("""
 
 load_dotenv()
 API_KEY = os.getenv("GEMINI_API_KEY")
+print("API key present?", bool(API_KEY))
 
 if not API_KEY:
     st.error("Please set GEMINI_API_KEY in your .env file")
