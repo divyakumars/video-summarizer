@@ -5,3 +5,4 @@ moviepy==1.0.3
 SpeechRecognition
 pydub
 openai-whisper
+ffmpeg
